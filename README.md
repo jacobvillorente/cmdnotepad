@@ -1,3 +1,5 @@
+the full text file can be found here: https://github.com/jacobvillorente/cmdnotepad/blob/main/text
+
 # what is this
 
 chances are, if you're reading this, you're more than likely a coworker or manager (or god forbit an IT manager)(in that case hi, my resume is in my bag i'm happy to give it to you) of mine and stumbled across this page. hello! i'm jacob, i'm a scribe tech at citymd, and one of my hobbies is computer science. 
